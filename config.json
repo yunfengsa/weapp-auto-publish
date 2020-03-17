@@ -1,0 +1,14 @@
+{
+  "debug": true,
+  "server": {
+    "port": 5788
+  },
+  "projectConfig": {
+    "base": "scripts/baseConfig.json",
+    "test": "scripts/testConfig.json",
+    "prod": "scripts/prodConfig.json"
+  },
+  "qiWeChat": "",
+  "workPath": "dist",
+  "cliPath": "cli.bat"
+}
